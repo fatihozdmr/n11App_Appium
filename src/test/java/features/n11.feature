@@ -1,6 +1,6 @@
 @n11
   Feature:n11 Mobile Application
-    Scenario:User Can Buy a Cell Phone with n11 Mobile App
+    Scenario:User Can Buy a Mobile Phone with n11 Mobile App
       When User taps on Kategoriler
       And User taps Elektronik on the categories
       And User taps Telefon & Aksesuarları on the electronically
